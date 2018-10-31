@@ -1,3 +1,5 @@
 *.tmp
 /build/
 gradle.properties
+/NhlStatistics1/.nb-gradle/
+/NhlStatistics1/build/
