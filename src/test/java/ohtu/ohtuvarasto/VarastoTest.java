@@ -133,7 +133,7 @@ public class VarastoTest {
     
     @Test
     public void toimiikoToString() {
-        assertEquals("saldo = 0.0, vielä tilaa 10.0", varasto.toString());
+        assertEquals("saldo = 0.0, vielä tilaa 10.0 KAKKA", varasto.toString());
         
         Varasto v = new Varasto(11, 12);
         assertEquals("saldo = 11.0, vielä tilaa 0.0", v.toString());
