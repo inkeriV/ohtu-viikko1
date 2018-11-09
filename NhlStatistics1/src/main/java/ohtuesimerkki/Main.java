@@ -5,7 +5,7 @@ public class Main {
         Statistics stats = new Statistics( new PlayerReader("http://nhlstats-2013-14.herokuapp.com/players.txt") );
           
         System.out.println("Philadelphia Flyers");
-        for (Player player : stats.team("PHI") ) {
+        for (Player player : stats.team("PHI")) {
             System.out.println( player );
         }
         
