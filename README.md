@@ -5,3 +5,4 @@
 [![codecov](https://codecov.io/gh/inkeriV/ohtu-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/inkeriV/ohtu-viikko1)
 
 * koeteksti
+* tokatest
